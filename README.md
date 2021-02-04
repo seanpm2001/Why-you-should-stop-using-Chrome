@@ -7,11 +7,41 @@
 
 This is an article on why you should stop using Google Chrome. I don't feel like anyone should be using Chrome in 2021, or want to use it, as every other modern web browser has succeeded Chrome on its many issues. Chrome has become the new Internet Explorer 6. It is time for the next browser to take over. This article will help you make your choice (if you haven't already)
 
+***
+
+# Index
+
+[01.0 - Memory usage](#Memory-usage)
+
+[02.0 - Privacy](#Privacy)
+
+[03.0 - ChromeBooks](#Chromebooks)
+
+> [03.0.1 - For everyone](#For-everyone)
+
+> [03.0.2 - For developers](#For-developers)
+
+> [03.0.3 - BSD](#BSD)
+
+[04.0 - Ad-blocking](#Ad-blocking)
+
+[05.0 - AMP](#AMP)
+
+[06.0 - Other things to check out](#Other-things-to-check-out)
+
+[07.0 - Article info](#Article-info)
+
+> [07.0.1 - Software status](#Software-status)
+
+[08.0 - File history](#File-history)
+
+[09.0 - Footer](#Footer)
+
 ## Memory usage
 
 The Internet frequently makes the joke of Chrome using up tons of memory, sometimes referring to it as a black hole. Most jokes are exaggerated, this one is no exception, although memory usage on Chrome is **very bad**.
 
-The Chrome browser uses an inefficient method where a separate instance of the browser is put into place for every tab. This adds ~190-250 megabytes of RAM to every tab.
+The Chrome browser uses an inefficient method where a separate instance of the browser is put into place for every tab. This adds ~190-250 megabytes of RAM to every tab. Along with this, the browser is very inefficient in page loading, which adds even more unnecessary RAM usage.
 
 Switching to any other browser, even other chromium-based browsers will result in better memory usage. Notable other Chromium browsers include Microsoft Edge (2019 onward) Brave, and Vivaldi. I would prefer Firefox or a non-Chromium browser for privacy and control, mostly something that is completely open source.
 
@@ -97,10 +127,126 @@ If you are looking for BSD on a Chromebook, you might want to do more research. 
 
 Research these BSD distributions:
 
-FreeBSD
+* FreeBSD
 
-OpenBSD
+* OpenBSD
 
-NetBSD
+* NetBSD
+
+***
+
+## Ad Blocking
+
+In 2019, Google Chrome was updated. This update (v?) removed the ability to easily install adblocking extensions. You may think that ads are necessary for a site, but an ad blocker can act as an anti-virus in some cases. Many common popular sites (such as w3schools, pornhub, etc.) have malicious ads that can install malware on your computer just by visiting the site. Having an adblocker can prevent these malicious ads from loading. 
+
+With the block of ad blockers, you now can't get away from ads on Chrome, even the ones that can give your computer ransomware. 
+
+***
+
+## AMP
+
+Google AMP (Originally Accelerated Mobile Pages) is a feature by Google that is killing the Internet. Any time you search with the Google search engine, you are going to an AMP site, which limits the revenue, viewcount, and other analytics for the sites you visit. Stop using AMP to support sites.
+
+Google AMP is a modified version of the websites you are visiting that has Googles tracking embedded, and ads forced in. It is very unhealthy for the Internet.
+
+***
+
+## Other things to check out
+
+[The Google Graveyard (killedbygoogle.com) - a sorted list of the 224+ products Google has killed](https://killedbygoogle.com/)
+
+> [GitHub link](https://github.com/codyogden/killedbygoogle)
+
+[Alphabet worker union - The new workers union at Google with over 800 members](https://alphabetworkersunion.org/people/our-union/)
+
+[Don't want to part with the dinosaur easter egg? This website has you covered](https://chromedino.com/)
+
+There are other alternates, just search for them.
+
+***
+
+## Article info
+
+File type: `Markdown (*.md)`
+
+File version: `2 (Wednesday, February 3rd 2021 at 5:13 pm)`
+
+Line count (including blank lines and compiler line): `253`
+
+### Software status
+
+All of my works are free from restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works. This project does not contain any DRM
+
+![DRM-free_label.en.svg](DRM-free_label.en.svg)
+
+This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+## File history
+
+Version 1 (Wednesday, February 3rd 2021 at 4:40 pm)
+
+> Changes:
+
+> * Started the file/article
+
+> * Added the title section
+
+> * Referenced the Google Chrome icon
+
+> * Added a section about memory usage
+
+> * Added a section about privacy
+
+> * Added a section about Chromebooks and ChromeOS
+
+> * No other changes in version 1
+
+Version 2 (Wednesday, February 3rd 2021 at 5:13 pm)
+
+> Changes:
+
+> * Added the ad blocking section
+
+> * Added the AMP section
+
+> * Added the article info section
+
+> * Referenced the DRM Free icon
+
+> * Added the file history section
+
+> * Added the other things to check out section
+
+> * Added the index
+
+> * Added the footer
+
+> * Updated the BSD section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
+
+***
+
+## Footer
+
+You have reached the end of this file!
+
+### EOF
 
 ***
