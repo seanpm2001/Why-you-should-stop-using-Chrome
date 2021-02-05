@@ -1,11 +1,19 @@
 
 ***
 
+Read in a different language:
+
+[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+
+***
+
 # Why you should stop using Google Chrome
 
 ![Google_Chrome_icon_(September_2014).svg](Google_Chrome_icon_(September_2014).svg)
 
-This is an article on why you should stop using Google Chrome. I don't feel like anyone should be using Chrome in 2021, or want to use it, as every other modern web browser has succeeded Chrome on its many issues. Chrome has become the new Internet Explorer 6. It is time for the next browser to take over. This article will help you make your choice (if you haven't already)
+This is an article on why you should stop using Google Chrome. I don't feel like anyone should be using Chrome in 2021, or want to use it, as every other modern web browser has succeeded Chrome on its many issues. [Chrome has become the new Internet Explorer 6](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards). It is time for the next browser to take over. This article will help you make your choice (if you haven't already)
 
 ***
 
@@ -37,6 +45,8 @@ This is an article on why you should stop using Google Chrome. I don't feel like
 
 [09.0 - Footer](#Footer)
 
+***
+
 ## Memory usage
 
 The Internet frequently makes the joke of Chrome using up tons of memory, sometimes referring to it as a black hole. Most jokes are exaggerated, this one is no exception, although memory usage on Chrome is **very bad**.
@@ -50,6 +60,8 @@ With Firefox, I can have over 100 tabs open at once while using less than 4 giga
 Chrome is also reported to be very bad with CPU usage compared to other browsers. Firefox uses very little CPU on Windows 10 and Ubuntu 20.04, but Chrome uses 4-6x more CPU on both platforms. Higher CPU usage will drain your battery life, and can easily cut your battery life in half, and is bad for the environment when done too much. On most devices, Chrome uses a minimum 60-75% of the CPU at all times, while Firefox uses a minimum of 1-13% of CPU at all times (based on common computers and intermediate computers under $2000.00)
 
 Google no longer cares about the performance of Chrome, as of 2017, when they discontinued their last benchmarking software to test Chrome (Google Octane was discontinued in 2017) so the performance will just keep getting worse and worse with each update until users get upset (if enough do) then small changes will be made, and it will build back up to this again and keep repeating this pattern.
+
+***
 
 ## Privacy
 
@@ -80,6 +92,8 @@ If you think you have nothing to hide, **you are absolutely wrong**. This argume
 7. Julian Assange stated "There is no killer answer yet. Jacob Appelbaum (@ioerror) has a clever response, asking people who say this to then hand him their phone unlocked and pull down their pants. My version of that is to say, 'well, if you're so boring then we shouldn't be talking to you, and neither should anyone else', but philosophically, the real answer is this: Mass surveillance is a mass structural change. When society goes bad, it's going to take you with it, even if you are the blandest person on earth."
 
 8. Ignacio Cofone, law professor, argues that the argument is mistaken in its own terms because, whenever people disclose relevant information to others, they also disclose irrelevant information. This irrelevant information has privacy costs and can lead to other harms, such as discrimination.
+
+***
 
 ## Chromebooks
 
@@ -169,9 +183,9 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Wednesday, February 3rd 2021 at 5:13 pm)`
+File version: `3 (Friday, February 5th 2021 at 1:50 pm)`
 
-Line count (including blank lines and compiler line): `253`
+Line count (including blank lines and compiler line): `289`
 
 ### Software status
 
@@ -225,11 +239,17 @@ Version 2 (Wednesday, February 3rd 2021 at 5:13 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Friday, February 5th 2021 at 1:50 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added a link to the first 9 non-English translations of this article
+
+> * Added a link to the Internet Explorer 6 claim
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -240,6 +260,22 @@ Version 4 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
