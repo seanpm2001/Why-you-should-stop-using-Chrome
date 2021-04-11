@@ -1,0 +1,1 @@
+This thread is for Traditional Chinese translation conversation and for anyone wanting to fix errors in T Chinese translation. Make sure to give plenty of examples, use wiktionary, and ELI5 as I don't know enough about the language to form a full sentence.
