@@ -1,0 +1,1 @@
+This thread is for Russian translation conversation and for anyone wanting to fix errors in Russiah translation. Make sure to give plenty of examples, use wiktionary, and ELI5 as I don't know enough about the language to form a full sentence. 
